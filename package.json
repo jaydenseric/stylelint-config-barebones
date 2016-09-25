@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-config-barebones",
+  "version": "0.1.0",
+  "description": "Barebones stylelint config, extending stylelint-config-standard.",
+  "author": {
+    "name": "Jayden Seric",
+    "email": "me@jaydenseric.com",
+    "url": "http://jaydenseric.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jaydenseric/stylelint-config-barebones.git"
+  },
+  "homepage": "https://github.com/jaydenseric/stylelint-config-barebones",
+  "bugs": "https://github.com/jaydenseric/stylelint-config-barebones/issues",
+  "keywords": [
+    "barebones",
+    "stylelint",
+    "stylelint-config",
+    "standard"
+  ],
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": "^7.2.0"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^13.0.2"
+  }
+}
