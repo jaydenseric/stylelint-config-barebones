@@ -14,7 +14,7 @@ The stylelint sharable config used in [Barebones](https://github.com/jaydenseric
 Install via NPM:
 
 ```bash
-npm install stylelint-config-barebones
+npm install stylelint-config-barebones --save-dev
 ```
 
 Extend this config in your project's [stylelint config](http://stylelint.io/user-guide/configuration/#extends):
